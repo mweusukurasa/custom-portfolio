@@ -1,0 +1,27 @@
+{
+    "name": "Custom Portfolio",
+    "short_name": "Custom Portfolio",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "theme_color": "#F0E28D",
+    "background_color": "#F0E28D",
+    "display": "standalone"
+}
